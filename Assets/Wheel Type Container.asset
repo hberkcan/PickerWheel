@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eed4af86a5e377d439d3a907b5f5f7ba, type: 3}
+  m_Name: Wheel Type Container
+  m_EditorClassIdentifier: 
+  BronzeWheel: {fileID: 21300000, guid: 33c9ae7b31dcc194b8913bcb48792d51, type: 3}
+  BronzeIndicator: {fileID: 21300000, guid: 4c6bd66fbc7e3c647adf7750dda302d1, type: 3}
+  SilverWheel: {fileID: 21300000, guid: 16910711c45939b42a14098aa558da51, type: 3}
+  SilverIndicator: {fileID: 21300000, guid: c0dfe60d6fa13f34aa3572d351905d70, type: 3}
+  GoldWheel: {fileID: 21300000, guid: fa06408e9a6390b48a20bfe63e41b3de, type: 3}
+  GoldIndicator: {fileID: 21300000, guid: e517eca3d582a394b991516fbbd3fc40, type: 3}
